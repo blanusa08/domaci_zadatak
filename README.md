@@ -1,6 +1,6 @@
 # Domaci zadatak iz tehnicke dokumentacije
 ## zadatak
-Napisi program koji je na osnovu uneta dva realna broja izracunava i ispisuje njihov izbor
+Napisi program koji na osnovu unetih duzina kateta pravouglog torugla a i b izracunava duzinu hipotenuze c
 
 $c = √(a² + b²)$
 
