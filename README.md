@@ -1,5 +1,5 @@
 # Domaci zadatak iz tehnicke dokumentacije
-## zadatak
+## Zadatak
 Napisi program koji na osnovu unetih duzina kateta pravouglog torugla a i b izracunava duzinu hipotenuze c
 
 $c = √(a² + b²)$
