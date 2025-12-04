@@ -2,7 +2,7 @@
 ## Zadatak
 Napisi program koji na osnovu unetih duzina kateta pravouglog torugla a i b izracunava duzinu hipotenuze c
 
-$c = √(a² + b²)$
+$c = \sqrt {a^2 + b^2}$
 
 ### Algoritamska sema
 
