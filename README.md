@@ -52,7 +52,7 @@ Press any key to close this window . . .
 ```
 ### Objekti
 
-| Redni broj | Promenljiva  | Tip Promenljive|                |
+| Redni broj | Promenljiva  | Tip Promenljive |
 |-------------|------|----------------------- |
 | 1.           | `a` | `double`                  |
 | 2.          | `b` | `double`                  |
